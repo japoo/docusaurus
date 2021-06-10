@@ -1,2 +1,2 @@
-# docusaurus
-template for online help
+# A Jorsek template for Docusaurus
+

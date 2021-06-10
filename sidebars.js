@@ -1,0 +1,1 @@
+module.exports = {"aSidebar":["21493ba0-a74d-11eb-9ba1-02423faa8c6c",{"Folder Management":["aa78d540-a750-11eb-9ba1-02423faa8c6c"]},{"Docu Sign":["057d1210-b478-11eb-9ba1-02423faa8c6c"]},"f84ad7d0-a649-11eb-9ba1-02423faa8c6c",{"Contract Setup":["d4f1a8d0-a64a-11eb-9ba1-02423faa8c6c","ad8a5fe0-b4d6-11eb-9ba1-02423faa8c6c"]},"b97474f0-b56a-11eb-9ba1-02423faa8c6c"]};
